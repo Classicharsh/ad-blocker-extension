@@ -37,5 +37,5 @@ def display_database_content(db_file):
 # 🔰 Run
 display_database_content("database/dns_filter.db")   # <-- change database file name
 
-# 🔚 Prevent program from closing
+
 input("\nPress ENTER to exit...")
